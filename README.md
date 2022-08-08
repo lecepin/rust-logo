@@ -32,7 +32,7 @@ Collection of logo images for all rust languages
 | <img src="./images/1659954040930.jpeg" /> | https://twitter.com/whoisaldeka/status/1165147725542785025                                                                  |
 | <img src="./images/1659954066483.png" />  | https://rustacean.net/more-crabby-things/rustdocs.png                                                                       |
 | <img src="./images/1659954230451.png" />  | https://www.reddit.com/r/OurWorldOfPixels/comments/u6x997/owop_botpixelart_from_kouzerumatsu4640_rust/                      |
-| <img src="./images/1659954280910.jpeg" />  | https://www.rust-lang.org/community                                                                                         |
+| <img src="./images/1659954280910.jpeg" /> | https://www.rust-lang.org/community                                                                                         |
 | <img src="./images/1659954756568.png" />  | https://www.behance.net/gallery/89117181/Ferris-the-professional                                                            |
 | <img src="./images/1659954745039.png" />  | https://www.behance.net/gallery/89117181/Ferris-the-professional                                                            |
 | <img src="./images/1659954731277.png" />  | https://www.behance.net/gallery/89117181/Ferris-the-professional                                                            |
@@ -51,3 +51,9 @@ Collection of logo images for all rust languages
 | <img src="./images/1659955228108.png" />  | https://baijiahao.baidu.com/s?id=1721439424981487749                                                                        |
 
 ## Gear
+
+| Preview                                  | From                                                                                    |
+| ---------------------------------------- | --------------------------------------------------------------------------------------- |
+| <img src="./images/1659961579952.png" /> | https://github.com/rust-lang/rust/issues/11562                                          |
+| <img src="./images/1659961768302.png" /> | https://gill.net.in/posts/auth-microservice-rust-actix-web1.0-diesel-complete-tutorial/ |
+| <img src="./images/1659962009178.png" /> | https://www.redbytes.in/wp-content/uploads/2018/05/rust-logo-png-transparent.png        |
