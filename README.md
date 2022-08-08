@@ -30,7 +30,7 @@ Collection of logo images for all rust languages
 | <img src="./images/1659954040930.jpeg" /> | https://twitter.com/whoisaldeka/status/1165147725542785025                                                                  |
 | <img src="./images/1659954066483.png" />  | https://rustacean.net/more-crabby-things/rustdocs.png                                                                       |
 | <img src="./images/1659954230451.png" />  | https://www.reddit.com/r/OurWorldOfPixels/comments/u6x997/owop_botpixelart_from_kouzerumatsu4640_rust/                      |
-| <img src="./images/1659954280910.png" />  | https://www.rust-lang.org/community                                                                                         |
+| <img src="./images/1659954280910.jpeg" />  | https://www.rust-lang.org/community                                                                                         |
 | <img src="./images/1659954756568.png" />  | https://www.behance.net/gallery/89117181/Ferris-the-professional                                                            |
 | <img src="./images/1659954745039.png" />  | https://www.behance.net/gallery/89117181/Ferris-the-professional                                                            |
 | <img src="./images/1659954731277.png" />  | https://www.behance.net/gallery/89117181/Ferris-the-professional                                                            |
