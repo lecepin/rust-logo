@@ -49,6 +49,7 @@ Collection of logo images for all rust languages
 | <img src="./images/1659955036038.png" />  | https://www.pinclipart.com/maxpin/iToboRw/                                                                                  |
 | <img src="./images/1659955147201.jpeg" /> | https://www.163.com/dy/article/HC3RB08D0511CUMI.html                                                                        |
 | <img src="./images/1659955228108.png" />  | https://baijiahao.baidu.com/s?id=1721439424981487749                                                                        |
+| <img src="./images/1660286633345.png" />  | https://github.com/WumaCoder/rust-boom                                                                                      |
 
 ## Gear
 
