@@ -56,11 +56,13 @@ Collection of logo images for all rust languages
 
 ## Gear
 
-| Preview                                  | From                                                                                    |
-| ---------------------------------------- | --------------------------------------------------------------------------------------- |
-| <img src="./images/1659961579952.png" /> | https://github.com/rust-lang/rust/issues/11562                                          |
-| <img src="./images/1659961768302.png" /> | https://gill.net.in/posts/auth-microservice-rust-actix-web1.0-diesel-complete-tutorial/ |
-| <img src="./images/1659962009178.png" /> | https://www.redbytes.in/wp-content/uploads/2018/05/rust-logo-png-transparent.png        |
-| <img src="./images/1660286946670.svg" /> | https://exercism.org/tracks/rust                                                        |
-| <img src="./images/1660287188594.svg" /> | https://github.com/rust-lang/rust-artwork                                               |
-| <img src="./images/1660287602640.png" /> | https://twitter.com/blackanger/status/1062701875181641728                               |
+| Preview                                   | From                                                                                                           |
+| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| <img src="./images/1659961579952.png" />  | https://github.com/rust-lang/rust/issues/11562                                                                 |
+| <img src="./images/1659961768302.png" />  | https://gill.net.in/posts/auth-microservice-rust-actix-web1.0-diesel-complete-tutorial/                        |
+| <img src="./images/1659962009178.png" />  | https://www.redbytes.in/wp-content/uploads/2018/05/rust-logo-png-transparent.png                               |
+| <img src="./images/1660286946670.svg" />  | https://exercism.org/tracks/rust                                                                               |
+| <img src="./images/1660287188594.svg" />  | https://github.com/rust-lang/rust-artwork                                                                      |
+| <img src="./images/1660287602640.png" />  | https://twitter.com/blackanger/status/1062701875181641728                                                      |
+| <img src="./images/1660288231843.png" />  | https://github.com/rust-unofficial/awesome-rust/issues/552                                                     |
+| <img src="./images/1660288287572.jpeg" /> | https://www.linuxadictos.com/en/comes-the-new-version-of-rust-1-30-0-with-improved-module-system-and-more.html |
