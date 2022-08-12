@@ -50,6 +50,9 @@ Collection of logo images for all rust languages
 | <img src="./images/1659955147201.jpeg" /> | https://www.163.com/dy/article/HC3RB08D0511CUMI.html                                                                        |
 | <img src="./images/1659955228108.png" />  | https://baijiahao.baidu.com/s?id=1721439424981487749                                                                        |
 | <img src="./images/1660286633345.png" />  | https://github.com/WumaCoder/rust-boom                                                                                      |
+| <img src="./images/1660286859825.png" />  | https://rustpython.github.io/                                                                                               |
+| <img src="./images/1660287783472.jpeg" /> | https://twitter.com/matt_boh/status/1386092914816667648                                                                     |
+| <img src="./images/1660287876916.jpeg" /> | https://twitter.com/neofight78/status/1406576984310878211                                                                   |
 
 ## Gear
 
@@ -58,3 +61,6 @@ Collection of logo images for all rust languages
 | <img src="./images/1659961579952.png" /> | https://github.com/rust-lang/rust/issues/11562                                          |
 | <img src="./images/1659961768302.png" /> | https://gill.net.in/posts/auth-microservice-rust-actix-web1.0-diesel-complete-tutorial/ |
 | <img src="./images/1659962009178.png" /> | https://www.redbytes.in/wp-content/uploads/2018/05/rust-logo-png-transparent.png        |
+| <img src="./images/1660286946670.svg" /> | https://exercism.org/tracks/rust                                                        |
+| <img src="./images/1660287188594.svg" /> | https://github.com/rust-lang/rust-artwork                                               |
+| <img src="./images/1660287602640.png" /> | https://twitter.com/blackanger/status/1062701875181641728                               |
